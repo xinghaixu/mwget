@@ -1,3 +1,9 @@
 MWget is a "MultiLine" wget for all POSTX System!
 多线程的下载，速度是wget的10倍
 解决在shell下运行没有问题，但是在crontab后台运行会报Segmentation fault的错误
+
+安装步骤：
+./configure
+make
+make install
+
