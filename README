@@ -1,2 +1,1 @@
 MWget is a "MultiLine" wget for all POSTX System!
-解决在shell下运行没有问题，但是在crontab后台运行会报Segmentation fault的错误
